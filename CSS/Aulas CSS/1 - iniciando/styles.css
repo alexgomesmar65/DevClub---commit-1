@@ -1,0 +1,27 @@
+  /* sempre encerrar a linha com ; */
+    /* h1 {
+        color: blue;
+        background: black;
+    }
+    
+    p {
+        color: blue;
+        font-size: 20px;
+
+    }
+
+    button {
+        background: green;
+        border-color: red;
+
+    } */
+
+    * {
+        background: red;
+    }
+
+    #titulo{
+        color: blue;
+        font-size: 30px;
+        background: grey;
+    }

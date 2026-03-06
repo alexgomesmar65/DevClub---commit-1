@@ -1,0 +1,12 @@
+* {
+box-sizing: border-box;
+}
+
+.box{
+    width: 100px;
+    height: 100px ;
+    background: #ff1493;
+    padding: 20px;
+    border: 10px solid #0000ff;
+   
+}

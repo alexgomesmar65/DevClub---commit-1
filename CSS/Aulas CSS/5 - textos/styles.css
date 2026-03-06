@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bpmf+Huninn&display=swap');
+
+h1 {
+    color: red;
+    font-size: 64px;
+    font-family: "Bpmf Huninn", sans-serif;
+}
+
+p {
+    color: blue;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: "Bpmf Huninn", sans-serif;
+
+}
