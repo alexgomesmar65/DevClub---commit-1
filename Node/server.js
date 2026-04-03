@@ -12,7 +12,7 @@ app.get("/usuarios", (req, res) => {
 });
 
 app.post("/usuarios", (req, res) => {
-  res.send("usuario criado com sucesso!");
+  res.send("POST -usuario criado com sucesso!");
 });
 
 app.listen(3000);
