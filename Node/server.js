@@ -8,7 +8,7 @@ const app = express();
 app.use(express.json());
 
 const users = [];
-c;
+
 const prisma = new PrismaClient();
 
 app.get("/usuarios", async (req, res) => {
